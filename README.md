@@ -10,7 +10,7 @@ Este efeito foi criado utilizando javascript puro</p>
 <h2 align="left">Segue uma pequena demonstração do projeto em funcionamento</h2>
 
   <div align="left">
-  <img src="https://github.com/Lucas8901/Caravam-Bootstrap5/blob/main/img/bandicam%202023-05-26%2016-02-21-246.gif"/>
+  <img src="https://github.com/Lucas8901/Buttom_Ripple_Effect/blob/main/assets/img/bandicam%202023-08-18%2020-36-54-120.gif"/>
   </div>
   
 <br>
